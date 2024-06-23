@@ -1,2 +1,3 @@
 # FirstRepository
-this is my first intraction with github i am learning 
+this is my first interaction with github i am learning 
+here we go
